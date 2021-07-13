@@ -1,3 +1,13 @@
+# Search Movie App
+
+this project was made as one of the scrimba.com paths of study, in this case React Basics, it uses:
+
+* React
+* setState
+* async js fetch
+* function based components
+* basic css styling
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
